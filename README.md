@@ -2,7 +2,7 @@
 
 Here you can find some information about me
 
-## [CV-website](https://menemi.github.io/MenemiCV/index.html)
+## [CV-website](https://menemi.github.io/MenemiCV)
 
 ## Coding Activity (last year)
 
