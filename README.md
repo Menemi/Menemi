@@ -1,8 +1,8 @@
 # Hi there, I'm Titov Daniil (Menemi)
 
-Here you can find some information about me
-
 ## [CV-website](https://menemi.github.io/menemi-dev)
+
+Here you can find some information about me
 
 ## Coding Activity (last year)
 
