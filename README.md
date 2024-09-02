@@ -1,6 +1,6 @@
 # Hi there, I'm Titov Daniil (Menemi)
 
-## [CV-website](https://menemi.github.io/menemi-dev)
+## [CV-website](https://menemi.github.io/a4-cv-template/)
 
 Here you can find some information about me
 
