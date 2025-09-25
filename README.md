@@ -12,4 +12,4 @@ Here you can find some information about me
 
 ## Languages
 
-![languages](https://wakatime.com/share/@Menemi/09582bc8-c9fd-425b-b175-3dd7eda64152.svg)
+![languages](https://wakatime.com/share/@Menemi/90d4cb42-b380-422f-a388-a16d24fac643.svg)
